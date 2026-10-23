@@ -77,32 +77,6 @@ I enjoy transforming ideas into practical products — from **full-stack web app
 
 # 🚀 Featured Projects
 
-## 💼 NxtMove — Career Accelerator Platform
-
-A modern career platform designed for **students and working professionals** to improve their employability.
-
-### Key Features
-
-- 📄 AI-powered Resume Builder
-- 🎯 ATS Resume Scoring
-- 🤖 AI Resume Analysis
-- 💼 Job Matching
-- 🔎 Job Search
-- 🏢 Company & Career Information
-- 📊 Career Dashboard
-- 📚 Career Roadmaps
-- 🎤 AI Voice Interviewer
-- 📈 Interview Evaluation
-- 🔐 Authentication & Authorization
-- 👨‍💼 Admin Portal
-- 📑 Resume PDF Generation
-
-### Technology
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `MySQL` `AI`
-
----
-
 ## 🏦 Ace Bank Service
 
 A backend banking application designed using modern Java enterprise technologies.
