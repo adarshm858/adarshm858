@@ -100,55 +100,8 @@ My cybersecurity interests include **application security, network security, rec
 
 # 🚀 Featured Projects
 
-## `01` — NxtMove
 
-### AI-Powered Career Acceleration Platform
-
-**NxtMove** is a career platform designed for students and professionals to improve their employability through AI-powered career tools.
-
-### Product Capabilities
-
-```text
-Resume
-   ↓
-AI Analysis
-   ↓
-ATS Optimization
-   ↓
-Skill Gap Detection
-   ↓
-Career Roadmap
-   ↓
-Job Matching
-   ↓
-AI Interview
-   ↓
-Performance Evaluation
-```
-
-### Key Features
-
-- 📄 AI Resume Builder
-- 🎯 ATS Resume Scoring
-- 🤖 AI Resume Analysis
-- 💼 Intelligent Job Matching
-- 🔎 Job Search
-- 🏢 Company & Career Information
-- 📊 Career Dashboard
-- 🧭 Personalized Career Roadmaps
-- 🎤 AI Voice Interviewer
-- 📈 Automated Interview Evaluation
-- 🔐 Authentication & Authorization
-- 👨‍💼 Admin Portal
-- 📑 Resume PDF Generation
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `MySQL` `AI`
-
----
-
-## `02` — Ace Bank Service
+## `01` — Ace Bank Service
 
 ### Secure Banking Backend
 
@@ -173,7 +126,7 @@ A Java and Spring Boot banking backend focused on **secure API architecture, aut
 
 ---
 
-## `03` — Scholar Forge
+## `02` — Scholar Forge
 
 ### Academic Marketplace Platform
 
@@ -195,7 +148,7 @@ A full-stack academic marketplace designed to connect students with academic res
 
 ---
 
-## `04` — Authentication Framework
+## `03` — Authentication Framework
 
 ### Secure Authentication & Authorization System
 
@@ -217,7 +170,7 @@ A reusable Spring Boot security framework designed around modern authentication 
 
 ---
 
-## `05` — Petify
+## `04` — Petify
 
 ### Pet Care Application
 
