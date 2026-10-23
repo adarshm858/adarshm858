@@ -36,7 +36,7 @@ I enjoy taking an idea from **concept → architecture → implementation → se
 ### Currently
 
 - 🎓 B.Tech in Information Technology
-- 💼 Working in the EdTech domain
+- 💼 Working in the Tech domain
 - 🚀 Building **NxtMove — Career Acceleration Platform**
 - ☕ Developing backend systems with **Java & Spring Boot**
 - ⚛️ Building modern interfaces with **Next.js & React**
