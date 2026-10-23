@@ -1,269 +1,231 @@
 # Adarsh Kumar Mishra
 
-### Full-Stack Developer · Java & Spring Boot · Cybersecurity · AI
+**Software Engineer · Full-Stack Developer · Java / Spring Boot · Cybersecurity · AI**
 
-<p align="left">
-  <a href="https://github.com/adarshm858">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-> Building secure, scalable and intelligent digital products with modern technologies.
+[GitHub](https://github.com/adarshm858) · [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-## `01` — About
+## Profile
 
-I'm an **Information Technology developer** focused on building production-oriented applications across **full-stack development, backend engineering, cybersecurity and AI**.
+I am an Information Technology professional focused on building **secure, scalable, and production-oriented software systems**.
 
-My approach is simple:
+My primary areas of engineering include **backend development, full-stack applications, cybersecurity, cloud technologies, and AI-powered products**.
 
-```text
-Understand → Design → Build → Secure → Test → Deploy → Improve
-```
-
-I'm particularly interested in developing systems that solve real-world problems rather than just demonstrating technology.
-
-- 💻 Full-Stack & Backend Development
-- ☕ Java & Spring Boot
-- ⚛️ Next.js & React
-- 🔐 Cybersecurity & Application Security
-- 🤖 AI & LLM-powered Applications
-- 🗄️ Database & API Architecture
-- ☁️ Cloud & Deployment
-- 🧩 System Design & Automation
-
----
-
-## `02` — Technical Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,render,figma" />
-</p>
-
-### Security
+I enjoy working across the complete software lifecycle — from understanding a problem and designing the architecture to implementation, security, testing, deployment, and continuous improvement.
 
 ```text
-Nmap          Wireshark
-Burp Suite    Hydra
-Metasploit    OpenVAS / GVM
-Maltego       OSINT
-OWASP         Penetration Testing
-Network Security
-Vulnerability Assessment
+Software Engineering
+├── Backend Engineering
+├── Full-Stack Development
+├── Application Security
+├── AI & Intelligent Systems
+├── Database Architecture
+├── Cloud & DevOps
+└── System Design
 ```
 
 ---
 
-# `03` — Selected Projects
+## Engineering Focus
 
-## NxtMove
-
-### AI-Powered Career Acceleration Platform
-
-A career platform designed to help students and professionals move from **resume creation → skill analysis → job discovery → interview preparation → career development**.
-
-**Core capabilities**
-
-- AI Resume Analysis
-- ATS Score & Optimization
-- Resume Builder
-- Job Matching
-- Career Roadmaps
-- AI Voice Interviewer
-- Interview Evaluation
-- Company & Career Information
-- Student Dashboard
-- Admin Portal
-- Resume PDF Generation
-- Authentication & Authorization
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `MySQL` `AI`
+| Area | Technologies / Expertise |
+|---|---|
+| **Languages** | Java, Python, C++, C, JavaScript, TypeScript |
+| **Frontend** | Next.js, React, HTML, CSS, Tailwind CSS |
+| **Backend** | Spring Boot, Spring Security, Node.js, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Security** | OWASP, Nmap, Burp Suite, Wireshark, Hydra, Metasploit, OpenVAS, OSINT |
+| **DevOps** | Git, GitHub, Docker, Linux, Vercel, Render |
+| **Design** | Figma, UI/UX, Product Design |
+| **AI** | LLM Applications, AI Automation, Resume Intelligence, AI Interview Systems |
 
 ---
+
+# Selected Work
+
 
 ## Ace Bank Service
 
-### Secure Banking Backend
+**Secure Banking Backend**
 
-A backend banking application focused on secure API architecture and enterprise-style backend development.
+A Java-based banking backend designed around secure API development, authentication, authorization, and persistent data management.
 
-**Features**
+### Engineering Highlights
 
-- REST APIs
-- Authentication & Authorization
-- Secure password handling
-- Banking operations
-- Database persistence
+- RESTful API architecture
+- Spring Security integration
+- Authentication and authorization
 - Role-based access control
-- Transaction-oriented architecture
+- Secure password handling
+- Database-driven banking operations
+- Validation and exception handling
 
-**Stack**
+### Technology
 
-`Java` `Spring Boot` `Spring Security` `MySQL`
+`Java` · `Spring Boot` · `Spring Security` · `MySQL`
 
-**Repository**
-
-[View Project →](https://github.com/adarshm858/Ace-Bank-Service)
+[Repository →](https://github.com/adarshm858/Ace-Bank-Service)
 
 ---
 
 ## Scholar Forge
 
-### Academic Marketplace
+**Academic Marketplace Platform**
 
-A full-stack academic marketplace designed to connect students with academic resources and services.
+A full-stack platform designed to connect students with academic resources and services through a secure digital marketplace.
 
-**Features**
+### Engineering Highlights
 
-- Secure authentication
-- OAuth2
+- OAuth2 authentication
 - JWT authorization
-- Academic marketplace
-- REST APIs
+- REST API architecture
 - User management
-- Responsive UI
+- Marketplace functionality
+- PostgreSQL integration
+- Responsive web interface
 
-**Stack**
+### Technology
 
-`Next.js` `Spring Boot` `PostgreSQL` `OAuth2` `JWT`
+`Next.js` · `Spring Boot` · `PostgreSQL` · `OAuth2` · `JWT`
 
 ---
 
 ## Authentication Framework
 
-### Secure Authentication & Authorization System
+**Spring Security Authentication System**
 
-A reusable authentication framework built with Spring Boot and Spring Security.
+A reusable authentication and authorization framework focused on secure backend architecture.
 
-**Features**
+### Engineering Highlights
 
-- User registration
-- Secure password hashing
-- Authentication
-- JWT-based security
+- User registration and authentication
+- BCrypt password hashing
+- JWT-based authentication
 - Role-based authorization
-- REST APIs
-- BCrypt password encryption
+- Secure REST APIs
+- Spring Security configuration
 
-**Stack**
+### Technology
 
-`Java` `Spring Boot` `Spring Security` `BCrypt` `REST API`
-
----
-
-## Petify
-
-### Pet Care Mobile Application
-
-A mobile application concept designed to simplify pet care management and provide an organized experience for pet owners.
-
-**Focus**
-
-`UI/UX` `Mobile Design` `Figma` `Product Design`
+`Java` · `Spring Boot` · `Spring Security` · `BCrypt` · `REST API`
 
 ---
 
-# `04` — Cybersecurity
+# Cybersecurity
 
-My cybersecurity interests include:
+My cybersecurity work focuses on understanding how applications and networks can be **assessed, secured, and hardened**.
 
-```text
-┌───────────────────────────────────────────┐
-│              CYBERSECURITY                │
-├───────────────────────────────────────────┤
-│                                           │
-│  Reconnaissance       → OSINT             │
-│  Network Security     → Nmap              │
-│  Traffic Analysis     → Wireshark         │
-│  Web Security         → Burp Suite        │
-│  Vulnerability        → OpenVAS / GVM     │
-│  Password Security    → Hydra             │
-│  Exploitation         → Metasploit        │
-│  Intelligence         → Maltego           │
-│  Application Security → OWASP             │
-│                                           │
-└───────────────────────────────────────────┘
-```
+### Areas
 
-I'm particularly interested in **secure application development**, where security is considered during architecture and development rather than added after deployment.
+**Reconnaissance**
 
----
+`OSINT` · `Maltego` · `Nmap`
 
-# `05` — Engineering Focus
+**Network Security**
 
-### Backend Engineering
+`Wireshark` · `Nmap` · `Network Analysis`
 
-```text
-REST APIs
-Authentication
-Authorization
-JWT
-Spring Security
-Database Design
-API Architecture
-Exception Handling
-Validation
-```
+**Web Application Security**
 
-### Full-Stack Engineering
+`Burp Suite` · `OWASP` · `Vulnerability Assessment`
 
-```text
-Next.js
-React
-TypeScript
-Tailwind CSS
-API Integration
-Responsive Design
-Authentication
-State Management
-```
+**Security Testing**
 
-### AI Engineering
+`Metasploit` · `Hydra` · `OpenVAS / GVM`
 
-```text
-LLM Applications
-Resume Analysis
-AI Interview Systems
-AI Career Roadmaps
-Intelligent Matching
-Automation
-```
+**Security Engineering**
+
+`Authentication` · `Authorization` · `Password Security` · `Secure API Design`
+
+My goal is to combine **software engineering and security engineering** to build applications that are secure by design.
 
 ---
 
-# `06` — Certifications & Training
+# Architecture & Engineering Interests
+
+I am particularly interested in designing systems around:
+
+```text
+Client
+   │
+   ▼
+Frontend / Next.js
+   │
+   ▼
+REST API
+   │
+   ▼
+Backend / Spring Boot
+   │
+   ├── Authentication
+   ├── Authorization
+   ├── Business Logic
+   ├── Validation
+   └── Security
+   │
+   ▼
+Database
+   │
+   ├── MySQL
+   ├── PostgreSQL
+   └── MongoDB
+```
+
+Alongside traditional application architecture, I am exploring how **AI and LLMs can be integrated into production software systems**.
+
+---
+
+# Current Focus
+
+### 01 — Backend Engineering
+
+Deepening expertise in:
+
+- Advanced Java
+- Spring Boot
+- Spring Security
+- REST API design
+- Database architecture
+- System design
+- Scalable backend services
+
+### 02 — AI Engineering
+
+Exploring:
+
+- LLM-powered applications
+- AI agents
+- Intelligent automation
+- Resume intelligence
+- AI interview systems
+- Recommendation and matching systems
+
+### 03 — Cybersecurity
+
+Developing stronger expertise in:
+
+- Web application security
+- Network security
+- Vulnerability assessment
+- Secure software architecture
+- Penetration testing
+- Application hardening
+
+### 04 — Cloud & DevOps
+
+Learning and applying:
+
+- Docker
+- Linux
+- CI/CD
+- Cloud deployment
+- Production environments
+- Monitoring and reliability
+
+---
+
+# Certifications & Training
 
 - **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**
 - **Red Hat System Administration Training**
@@ -273,92 +235,58 @@ Automation
 
 ---
 
-# `07` — Currently Exploring
+# Professional Approach
+
+I approach software development through five principles:
 
 ```text
-AI Engineering
-       ↓
-LLM Applications
-       ↓
-AI Agents
-       ↓
-Intelligent Automation
-       ↓
-Secure AI Systems
+01  Understand the problem
+02  Design before implementation
+03  Build with security in mind
+04  Test and validate continuously
+05  Optimize for maintainability and scale
 ```
 
-Alongside AI, I'm continuing to deepen my knowledge of:
+I believe good software is not simply software that works.
 
-- System Design
-- Advanced Spring Boot
-- Application Security
-- Cloud Infrastructure
-- DevOps
-- Scalable SaaS Architecture
-- Database Optimization
+It should be:
+
+**Reliable. Secure. Maintainable. Scalable. Useful.**
 
 ---
 
-# `08` — GitHub Analytics
+# GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"
-    height="170"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=adarshm858&theme=github-dark-blue&hide_border=true&background=0D1117"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" height="165"/>
+
 </p>
 
 ---
 
-# `09` — Development Philosophy
+# Let's Connect
 
-> **Don't just build software. Build software that solves problems.**
+I am interested in opportunities involving:
 
-I believe strong engineering comes from combining:
-
-```text
-Problem Understanding
-        +
-Clean Architecture
-        +
-Security
-        +
-Scalability
-        +
-User Experience
-        +
-Continuous Learning
-```
-
----
-
-# `10` — Let's Connect
+**Software Engineering · Backend Development · Full-Stack Development · Cybersecurity · AI Engineering**
 
 <p align="left">
-  <a href="https://github.com/adarshm858">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://github.com/adarshm858">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-
-### `BUILD • SECURE • AUTOMATE • SCALE`
-
-<sub>© Adarsh Kumar Mishra</sub>
-
+<sub>Engineering software with security, scalability, and real-world impact in mind.</sub>
 </p>
