@@ -3,13 +3,13 @@
 ### Full-Stack Developer · Java & Spring Boot · Cybersecurity · AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Engineer;Cybersecurity+Enthusiast;AI+%26+LLM+Explorer;Backend+%26+API+Developer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Engineer;Cybersecurity+Enthusiast;AI+%26+LLM+Explorer;Backend+%26+API+Developer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
 
 <a href="https://github.com/adarshm858">
-<img src="https://img.shields.io/badge/GitHub-adarshm858-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-adarshm858-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -28,6 +28,10 @@
 <img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
+<a href="https://codolio.com/profile/adarsh858">
+<img src="https://img.shields.io/badge/Codolio-adarsh858-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
@@ -42,9 +46,9 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm an Information Technology professional focused on building **secure, scalable and production-ready software**.
+I'm an **Information Technology professional and Full-Stack Developer** focused on building secure, scalable and production-ready software.
 
 My work sits at the intersection of:
 
@@ -65,7 +69,7 @@ Idea → Architecture → Development → Security → Testing → Deployment
 ### 🚀 Currently Focused On
 
 - 🎓 B.Tech in Information Technology
-- 💼 Working in the technology/EdTech ecosystem
+- 💼 Working in the technology / EdTech ecosystem
 - 🚀 Building **NxtMove — Career Acceleration Platform**
 - ☕ Java & Spring Boot backend engineering
 - ⚛️ Next.js & React full-stack development
@@ -79,31 +83,31 @@ Idea → Architecture → Development → Security → Testing → Deployment
 
 # 🛠️ Technology Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
 </p>
 
-### ☁️ Tools & DevOps
+## ☁️ Tools & DevOps
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma" />
@@ -126,11 +130,7 @@ Security Automation
 Secure API Development
 ```
 
-### 🛡️ Security Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
+### 🛡️ Security Tools & Technologies
 
 ```text
 Nmap
@@ -143,19 +143,21 @@ Hydra
 Kali Linux
 OWASP
 Red Hat
+Linux
+Networking
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 1. 🟢 NxtMove — Career Acceleration Platform
+## 🟢 1. NxtMove — Career Acceleration Platform
 
 > **Build Your Resume. Find Your Match. Make Your Next Move.**
 
-A career platform designed to help students and professionals build resumes, analyze ATS compatibility and discover relevant job opportunities.
+A career acceleration platform designed to help students and professionals build resumes, analyze ATS compatibility and discover relevant job opportunities.
 
-### Features
+### ✨ Features
 
 - 📄 Resume Builder
 - 🤖 AI Resume Intelligence
@@ -167,8 +169,9 @@ A career platform designed to help students and professionals build resumes, ana
 - 📈 Career Analytics
 - 📝 Resume Management
 - 📱 Responsive UI
+- 🏢 Company / Job Redirection
 
-### Tech Stack
+### 🧰 Tech Stack
 
 ```text
 Next.js • React • TypeScript • MySQL • Prisma • AI • REST APIs
@@ -178,11 +181,11 @@ Next.js • React • TypeScript • MySQL • Prisma • AI • REST APIs
 
 ---
 
-## 2. 🏥 Hospital Management System
+## 🏥 2. Hospital Management System
 
-Full-stack hospital management platform with role-based access, patient management, doctor management and real-time notifications.
+A full-stack hospital management platform for managing patients, doctors, administrators and hospital operations.
 
-### Features
+### ✨ Features
 
 - 👨‍⚕️ Doctor Management
 - 🧑‍🤝‍🧑 Patient Management
@@ -194,7 +197,7 @@ Full-stack hospital management platform with role-based access, patient manageme
 - 🐳 Dockerized Services
 - 📱 Responsive Frontend
 
-### Tech Stack
+### 🧰 Tech Stack
 
 ```text
 Next.js • React • Java • Spring Boot • MySQL • Docker
@@ -211,18 +214,18 @@ Next.js • React • Java • Spring Boot • MySQL • Docker
 </a>
 
 <a href="https://github.com/adarshm858/Hospital-Management-System">
-<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 3. 🏦 Ace Bank Service
+## 🏦 3. Ace Bank Service
 
-Secure banking backend built using Java and Spring Boot with authentication, authorization and banking operations.
+A secure banking backend built using Java and Spring Boot with authentication, authorization and banking operations.
 
-### Highlights
+### ✨ Highlights
 
 - 🔐 Spring Security
 - 👤 User Authentication
@@ -232,8 +235,9 @@ Secure banking backend built using Java and Spring Boot with authentication, aut
 - 🗄️ MySQL
 - ✅ Validation & Exception Handling
 - 🔌 REST APIs
+- 🔒 Secure Backend Architecture
 
-### Tech Stack
+### 🧰 Tech Stack
 
 ```text
 Java • Spring Boot • Spring Security • MySQL • REST API
@@ -250,22 +254,18 @@ Java • Spring Boot • Spring Security • MySQL • REST API
 </a>
 
 <a href="https://github.com/adarshm858/Ace-Bank-Service">
-<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 4. 🎓 Scholar Forge
+## 🎓 4. Scholar Forge
 
-Academic marketplace designed to connect students and academic resources.
+Academic marketplace designed to connect students with academic resources and services.
 
-```text
-Next.js • Spring Boot • PostgreSQL • OAuth2 • JWT
-```
-
-### Key Features
+### ✨ Features
 
 - OAuth2 Authentication
 - JWT Authorization
@@ -273,32 +273,44 @@ Next.js • Spring Boot • PostgreSQL • OAuth2 • JWT
 - REST APIs
 - PostgreSQL
 - Responsive UI
+- Secure API Architecture
+
+### 🧰 Tech Stack
+
+```text
+Next.js • Spring Boot • PostgreSQL • OAuth2 • JWT
+```
 
 ---
 
-## 5. 🔐 Authentication Framework
+## 🔐 5. Authentication Framework
 
 Secure authentication and authorization framework built with Spring Boot.
+
+### ✨ Features
+
+- Registration
+- Login
+- BCrypt Password Hashing
+- JWT Authentication
+- Role-Based Access Control
+- Protected REST APIs
+- Spring Security Configuration
+- Exception Handling
+
+### 🧰 Tech Stack
 
 ```text
 Spring Boot • Spring Security • JWT • BCrypt • REST API
 ```
 
-### Features
-
-- Registration
-- Login
-- Password Hashing
-- JWT Authentication
-- RBAC
-- Protected APIs
-- Security Configuration
-
 ---
 
-## 6. 🐾 Petify
+## 🐾 6. Petify
 
-Pet-care mobile application concept focused on improving pet-owner experiences.
+Pet-care mobile application concept focused on improving the experience of pet owners.
+
+### 🧰 Tech Stack
 
 ```text
 Figma • UI/UX • Product Design
@@ -318,6 +330,7 @@ System Design
 API Development
 Security Automation
 DevOps
+SaaS Development
 ```
 
 ---
@@ -338,9 +351,31 @@ DevOps
 <img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
+<a href="https://codolio.com/profile/adarsh858">
+<img src="https://img.shields.io/badge/Codolio-adarsh858-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
 </p>
 
-### 🟢 HackerRank
+---
+
+## 🟣 Codolio
+
+<p align="center">
+
+<a href="https://codolio.com/profile/adarsh858">
+<img src="https://img.shields.io/badge/🏆%20View%20My-Codolio%20Profile-6C63FF?style=for-the-badge" />
+</a>
+
+</p>
+
+> 📊 My Codolio profile showcases my coding journey, competitive programming profiles, achievements and problem-solving progress.
+
+**Profile:** https://codolio.com/profile/adarsh858
+
+---
+
+## 🟢 HackerRank
 
 <p align="center">
 
@@ -350,11 +385,25 @@ DevOps
 
 </p>
 
-**Areas:** Problem Solving · Java · SQL · Python · C++
+### 💻 Areas
 
-> ⭐ My HackerRank profile contains my current stars, badges and earned achievements.
+```text
+Problem Solving
+Java
+SQL
+Python
+C++
+Algorithms
+Data Structures
+```
 
-### 🟠 LeetCode
+> ⭐ View my current HackerRank stars, badges and achievements directly on my HackerRank profile.
+
+**Profile:** https://www.hackerrank.com/profile/adarshm858
+
+---
+
+## 🟠 LeetCode
 
 <p align="center">
 
@@ -362,21 +411,29 @@ DevOps
 
 </p>
 
-[View LeetCode Profile](https://leetcode.com/u/adarsm858/)
-
-### 🟤 CodeChef
-
 <p align="center">
 
-<a href="https://www.codechef.com/users/adarshm858">
-<img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://leetcode.com/u/adarsm858/">
+<img src="https://img.shields.io/badge/🏆%20View%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🟤 CodeChef
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/adarshm858">
+<img src="https://img.shields.io/badge/🏆%20View%20My-CodeChef%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -398,7 +455,7 @@ DevOps
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
 
@@ -408,7 +465,7 @@ DevOps
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
 
@@ -416,7 +473,7 @@ DevOps
 
 </p>
 
-> ⚠️ The Snake animation requires a GitHub Actions workflow in this profile repository.
+> ⚠️ The Snake requires a GitHub Actions workflow to generate the SVG in the `output` branch.
 
 ---
 
@@ -436,16 +493,44 @@ DevOps
 
 ---
 
+# ⭐ Featured Repository Stats
+
+### 🏥 Hospital Management System
+
+<p align="left">
+
+<img src="https://img.shields.io/github/stars/adarshm858/Hospital-Management-System?style=for-the-badge&label=GitHub%20Stars&color=yellow" />
+
+<img src="https://img.shields.io/github/forks/adarshm858/Hospital-Management-System?style=for-the-badge&label=Forks&color=blue" />
+
+<img src="https://img.shields.io/github/issues/adarshm858/Hospital-Management-System?style=for-the-badge&label=Issues&color=red" />
+
+</p>
+
+### 🏦 Ace Bank Service
+
+<p align="left">
+
+<img src="https://img.shields.io/github/stars/adarshm858/Ace-Bank-Service?style=for-the-badge&label=GitHub%20Stars&color=yellow" />
+
+<img src="https://img.shields.io/github/forks/adarshm858/Ace-Bank-Service?style=for-the-badge&label=Forks&color=blue" />
+
+<img src="https://img.shields.io/github/issues/adarshm858/Ace-Bank-Service?style=for-the-badge&label=Issues&color=red" />
+
+</p>
+
+---
+
 # 🎓 Certifications & Training
 
 | Certification / Training | Area |
 |---|---|
-| 🟠 Oracle Cloud Infrastructure 2025 — AI Foundations Associate | AI / Cloud |
-| 🔴 Red Hat System Administration Training | Linux / System Administration |
-| 🐍 Data Science using Python | Python / Data Science |
-| 🔐 Cybersecurity & Ethical Hacking Training | Cybersecurity |
-| ☁️ Cloud & Database Technologies | Cloud / Database |
-| 🐧 Kali Linux Training | Cybersecurity / Linux |
+| 🟠 **Oracle Cloud Infrastructure 2025 — AI Foundations Associate** | AI / Cloud |
+| 🔴 **Red Hat System Administration Training** | Linux / System Administration |
+| 🐍 **Data Science using Python** | Python / Data Science |
+| 🔐 **Cybersecurity & Ethical Hacking Training** | Cybersecurity |
+| ☁️ **Cloud & Database Technologies** | Cloud / Database |
+| 🐧 **Kali Linux Training** | Cybersecurity / Linux |
 
 ---
 
@@ -474,6 +559,8 @@ DevOps
 ✓ Deepen Cybersecurity expertise
 ✓ Contribute to Open Source
 ✓ Build and launch useful products
+✓ Improve Competitive Programming
+✓ Build impactful AI-powered products
 ```
 
 ---
@@ -481,13 +568,13 @@ DevOps
 # 💡 Development Philosophy
 
 ```text
-BUILD
-   ↓
-SECURE
-   ↓
-AUTOMATE
-   ↓
-SCALE
+        BUILD
+          ↓
+       SECURE
+          ↓
+      AUTOMATE
+          ↓
+        SCALE
 ```
 
 > **Good software works.  
@@ -498,35 +585,35 @@ SCALE
 # 🚀 My Developer Journey
 
 ```text
-          ┌──────────────────┐
-          │   IT & Software  │
-          │    Engineering   │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Backend & APIs   │
-          │ Java / Spring    │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Full-Stack Dev   │
-          │ Next.js / React  │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Cybersecurity    │
-          │ Secure Systems   │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ AI & LLM         │
-          │ Engineering      │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Production       │
-          │ Systems & SaaS   │
-          └──────────────────┘
+              ┌────────────────────┐
+              │ IT & Software      │
+              │ Engineering        │
+              └──────────┬─────────┘
+                         ↓
+              ┌────────────────────┐
+              │ Backend & APIs     │
+              │ Java / Spring Boot │
+              └──────────┬─────────┘
+                         ↓
+              ┌────────────────────┐
+              │ Full-Stack         │
+              │ Next.js / React    │
+              └──────────┬─────────┘
+                         ↓
+              ┌────────────────────┐
+              │ Cybersecurity      │
+              │ Secure Systems     │
+              └──────────┬─────────┘
+                         ↓
+              ┌────────────────────┐
+              │ AI & LLM           │
+              │ Engineering        │
+              └──────────┬─────────┘
+                         ↓
+              ┌────────────────────┐
+              │ Production         │
+              │ Systems & SaaS     │
+              └────────────────────┘
 ```
 
 ---
@@ -555,6 +642,10 @@ SCALE
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
+<a href="https://codolio.com/profile/adarsh858">
+<img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -563,4 +654,8 @@ SCALE
 
 ### ⚡ BUILD • SECURE • AUTOMATE • SCALE
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" />
 </p>
