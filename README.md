@@ -8,29 +8,31 @@
 
 <p align="center">
   <a href="https://github.com/adarshm858">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/adarsm858/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.hackerrank.com/profile/adarshm858">
-    <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/adarshm858">
-    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshm858&label=Profile%20Views&color=58A6FF&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=adarshm858&label=Profile%20Views&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/adarshm858?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/adarshm858?label=Total%20Stars&style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm an **Information Technology professional and Full-Stack Developer** focused on building practical, secure, and scalable software systems.
 
@@ -118,7 +120,7 @@ My primary development focus includes **Java, Spring Boot, Spring Security, Next
 
 ---
 
-## ☁️ DevOps & Tools
+## ☁️ DevOps & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma"/>
@@ -200,8 +202,13 @@ A full-stack healthcare management system designed to digitize hospital workflow
 
 `Next.js` `React` `Java` `Spring Boot` `MySQL` `Docker`
 
-🔗 **Repository:**  
-https://github.com/adarshm858/Hospital-Management-System
+<p>
+  <a href="https://github.com/adarshm858/Hospital-Management-System">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/adarshm858/Hospital-Management-System?style=for-the-badge&logo=github&label=Stars"/>
+  <img src="https://img.shields.io/github/forks/adarshm858/Hospital-Management-System?style=for-the-badge&logo=github&label=Forks"/>
+</p>
 
 ---
 
@@ -227,8 +234,13 @@ A Java and Spring Boot banking backend focused on **secure API architecture, aut
 
 `Java` `Spring Boot` `Spring Security` `MySQL` `REST API`
 
-🔗 **Repository:**  
-https://github.com/adarshm858/Ace-Bank-Service
+<p>
+  <a href="https://github.com/adarshm858/Ace-Bank-Service">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/adarshm858/Ace-Bank-Service?style=for-the-badge&logo=github&label=Stars"/>
+  <img src="https://img.shields.io/github/forks/adarshm858/Ace-Bank-Service?style=for-the-badge&logo=github&label=Forks"/>
+</p>
 
 ---
 
@@ -355,20 +367,26 @@ Secure API Development
 <p align="center">
 
 <a href="https://leetcode.com/u/adarsm858/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-adarsm858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/adarshm858">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-adarshm858-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/adarshm858">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
 
-### 🧩 Competitive Programming
+## 🟠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adarsm858?theme=dark&font=Karma" alt="LeetCode Stats"/>
+</p>
+
+## 🧩 Competitive Programming
 
 My coding practice focuses on:
 
@@ -380,7 +398,7 @@ My coding practice focuses on:
 - C++
 - Python
 - SQL
-- Interview Preparation
+- Technical Interview Preparation
 
 | Platform | Username | Focus |
 |---|---|---|
@@ -388,7 +406,7 @@ My coding practice focuses on:
 | 🟢 HackerRank | `adarshm858` | Problem Solving · Java · Python · SQL |
 | 🟤 CodeChef | `adarshm858` | Competitive Programming · DSA · Contests |
 
-### 🔗 Profiles
+### 🔗 Coding Profiles
 
 - 🟠 **LeetCode:** https://leetcode.com/u/adarsm858/
 - 🟢 **HackerRank:** https://www.hackerrank.com/profile/adarshm858
@@ -398,16 +416,28 @@ My coding practice focuses on:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshm858&theme=darkhub&no-frame=true&margin-w=8&row=2" alt="GitHub Trophies"/>
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true"/>
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adarshm858&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img src="https://streak-stats.demolab.com?user=adarshm858&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -420,7 +450,35 @@ My coding practice focuses on:
 
 ---
 
+# 📈 Repository Highlights
+
+<p align="center">
+
+<a href="https://github.com/adarshm858/Hospital-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Hospital-Management-System&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/adarshm858/Ace-Bank-Service">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Ace-Bank-Service&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</p>
+
+---
+
 # 🏆 Certifications & Training
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Red%20Hat-System%20Administration-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### Certifications & Training
 
 - 🏆 **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**
 - 🐧 **Red Hat System Administration Training**
