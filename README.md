@@ -3,130 +3,111 @@
 ### Full-Stack Developer · Java & Spring Boot · Cybersecurity · AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Engineer;Cybersecurity+Enthusiast;AI+%26+LLM+Explorer;Backend+%26+API+Developer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Engineer;Cybersecurity+Enthusiast;AI+%26+LLM+Explorer;Backend+%26+API+Developer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/adarshm858">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/adarsm858/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/adarshm858">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/adarshm858">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/adarshm858">
+<img src="https://img.shields.io/badge/GitHub-adarshm858-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/adarsm858/">
+<img src="https://img.shields.io/badge/LeetCode-adarsm858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/adarshm858">
+<img src="https://img.shields.io/badge/HackerRank-adarshm858-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/adarshm858">
+<img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshm858&label=Profile%20Views&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/adarshm858?label=Followers&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/adarshm858?label=Total%20Stars&style=for-the-badge&logo=github"/>
+
+<img src="https://komarev.com/ghpvc/?username=adarshm858&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/adarshm858?label=Followers&style=for-the-badge&color=58A6FF" />
+
+<img src="https://img.shields.io/github/stars/adarshm858?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **Information Technology professional and Full-Stack Developer** focused on building practical, secure, and scalable software systems.
+I'm an Information Technology professional focused on building **secure, scalable and production-ready software**.
 
-My engineering interests sit at the intersection of:
+My work sits at the intersection of:
 
-<p align="center">
+```text
+Software Engineering
+        ×
+Cybersecurity
+        ×
+Artificial Intelligence
+```
 
-### Software Engineering × Cybersecurity × Artificial Intelligence
+I enjoy taking products from:
 
-</p>
+```text
+Idea → Architecture → Development → Security → Testing → Deployment
+```
 
-I enjoy taking an idea from:
-
-**Concept → Architecture → Development → Security → Testing → Deployment**
-
-My primary development focus includes **Java, Spring Boot, Spring Security, Next.js, React, TypeScript, REST APIs, SQL, authentication systems, cybersecurity and AI-powered applications.**
-
-### 🚀 Currently
+### 🚀 Currently Focused On
 
 - 🎓 B.Tech in Information Technology
-- 💼 Working in the technology domain
+- 💼 Working in the technology/EdTech ecosystem
 - 🚀 Building **NxtMove — Career Acceleration Platform**
-- ☕ Developing backend systems using **Java & Spring Boot**
-- ⚛️ Building modern interfaces using **Next.js & React**
-- 🔐 Exploring **Application Security & Network Security**
-- 🤖 Exploring **AI, LLMs & intelligent automation**
-- 🧠 Strengthening **DSA, System Design & Software Architecture**
-- ☁️ Learning modern **Cloud & DevOps practices**
+- ☕ Java & Spring Boot backend engineering
+- ⚛️ Next.js & React full-stack development
+- 🔐 Application & Network Security
+- 🤖 AI / LLM-powered applications
+- 🧠 Data Structures & Algorithms
+- 🏗️ System Design & Scalable APIs
+- ☁️ Cloud & DevOps
 
 ---
 
 # 🛠️ Technology Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
 </p>
 
-`Java` · `Python` · `C++` · `C` · `JavaScript` · `TypeScript`
+### 🎨 Frontend
 
----
-
-## 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,html,css,tailwind" />
 </p>
 
-`Next.js` · `React` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS`
+### ⚙️ Backend
 
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-`Java` · `Spring Boot` · `Spring Security` · `Node.js` · `Express.js`
+### 🗄️ Databases
 
-### Backend Expertise
-
-- RESTful API Development
-- Authentication & Authorization
-- JWT
-- OAuth2
-- Role-Based Access Control
-- API Validation
-- Exception Handling
-- Database Transactions
-- Secure API Architecture
-- Backend Integration
-- Service-Oriented Architecture
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
 </p>
 
-`MySQL` · `PostgreSQL` · `MongoDB`
+### ☁️ Tools & DevOps
 
----
-
-## ☁️ DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma" />
 </p>
-
-`Git` · `GitHub` · `Docker` · `Linux` · `Vercel` · `Figma`
 
 ---
 
@@ -134,292 +115,273 @@ My primary development focus includes **Java, Spring Boot, Spring Security, Next
 
 My cybersecurity interests include:
 
-**Application Security · Network Security · OSINT · Reconnaissance · Vulnerability Assessment · Penetration Testing**
+```text
+Application Security
+Network Security
+OSINT
+Reconnaissance
+Vulnerability Assessment
+Penetration Testing
+Security Automation
+Secure API Development
+```
 
-| Security Domain | Tools / Technologies |
-|---|---|
-| 🔎 Reconnaissance | OSINT · Maltego · Nmap |
-| 🌐 Network Security | Nmap · Wireshark |
-| 🕸️ Web Security | Burp Suite · OWASP |
-| 🧪 Security Testing | Metasploit · OpenVAS / GVM |
-| 🔑 Password Security | Hydra · Hashing · Salting |
-| 🛡️ Application Security | Authentication · Authorization · Secure APIs |
-| 📡 Networking | TCP/IP · DNS · DHCP · HTTP |
-| 🌍 IP Networking | IPv4 · IPv6 · CIDR |
-| 🐧 Linux Security | Kali Linux · Red Hat Linux |
+### 🛡️ Security Tools
 
-> **Security should be designed into the architecture — not added after the product is built.**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+```text
+Nmap
+Wireshark
+Burp Suite
+Maltego
+Metasploit
+OpenVAS / GVM
+Hydra
+Kali Linux
+OWASP
+Red Hat
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🟢 01 — NxtMove
+## 1. 🟢 NxtMove — Career Acceleration Platform
 
-### Career Acceleration Platform
+> **Build Your Resume. Find Your Match. Make Your Next Move.**
 
-A career platform designed to help students and professionals **build resumes, evaluate ATS compatibility, discover relevant jobs and improve their career profiles.**
+A career platform designed to help students and professionals build resumes, analyze ATS compatibility and discover relevant job opportunities.
 
-### Key Features
+### Features
 
 - 📄 Resume Builder
-- 🎯 ATS Resume Scoring
-- 🤖 AI-powered Resume Intelligence
-- 💼 Job Matching
+- 🤖 AI Resume Intelligence
+- 📊 ATS Score Analysis
+- 🎯 Job Matching
 - 🔎 Job Search
-- 👤 Candidate Dashboard
-- 🛡️ Authentication & Authorization
-- 📊 Career Analytics
-- 📑 Resume Management
-- 🌐 Responsive Web Application
+- 👨‍💼 Candidate Dashboard
+- 🔐 Authentication & Authorization
+- 📈 Career Analytics
+- 📝 Resume Management
+- 📱 Responsive UI
 
-### Technology
+### Tech Stack
 
-`Next.js` `React` `TypeScript` `MySQL` `Prisma` `AI` `REST APIs`
+```text
+Next.js • React • TypeScript • MySQL • Prisma • AI • REST APIs
+```
+
+🌐 **Platform:** https://nxtmove.nyeras.com/
 
 ---
 
-## 🏥 02 — Hospital Management System
+## 2. 🏥 Hospital Management System
 
-### Full-Stack Healthcare Management Platform
+Full-stack hospital management platform with role-based access, patient management, doctor management and real-time notifications.
 
-A full-stack healthcare management system designed to digitize hospital workflows and provide an integrated platform for managing patients, doctors, administration and real-time communication.
+### Features
+
+- 👨‍⚕️ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 👨‍💼 Admin Dashboard
+- 🔐 Authentication & RBAC
+- 🔌 REST APIs
+- 🗄️ MySQL Database
+- 🔔 Real-Time Notifications
+- 🐳 Dockerized Services
+- 📱 Responsive Frontend
+
+### Tech Stack
+
+```text
+Next.js • React • Java • Spring Boot • MySQL • Docker
+```
+
+<p align="left">
+
+<a href="https://github.com/adarshm858/Hospital-Management-System">
+<img src="https://img.shields.io/github/stars/adarshm858/Hospital-Management-System?style=for-the-badge&label=Stars&color=yellow" />
+</a>
+
+<a href="https://github.com/adarshm858/Hospital-Management-System">
+<img src="https://img.shields.io/github/forks/adarshm858/Hospital-Management-System?style=for-the-badge&label=Forks&color=blue" />
+</a>
+
+<a href="https://github.com/adarshm858/Hospital-Management-System">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+## 3. 🏦 Ace Bank Service
+
+Secure banking backend built using Java and Spring Boot with authentication, authorization and banking operations.
+
+### Highlights
+
+- 🔐 Spring Security
+- 👤 User Authentication
+- 🛡️ Role-Based Access Control
+- 🔑 Secure Password Handling
+- 💳 Banking Operations
+- 🗄️ MySQL
+- ✅ Validation & Exception Handling
+- 🔌 REST APIs
+
+### Tech Stack
+
+```text
+Java • Spring Boot • Spring Security • MySQL • REST API
+```
+
+<p align="left">
+
+<a href="https://github.com/adarshm858/Ace-Bank-Service">
+<img src="https://img.shields.io/github/stars/adarshm858/Ace-Bank-Service?style=for-the-badge&label=Stars&color=yellow" />
+</a>
+
+<a href="https://github.com/adarshm858/Ace-Bank-Service">
+<img src="https://img.shields.io/github/forks/adarshm858/Ace-Bank-Service?style=for-the-badge&label=Forks&color=blue" />
+</a>
+
+<a href="https://github.com/adarshm858/Ace-Bank-Service">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+## 4. 🎓 Scholar Forge
+
+Academic marketplace designed to connect students and academic resources.
+
+```text
+Next.js • Spring Boot • PostgreSQL • OAuth2 • JWT
+```
 
 ### Key Features
-
-- Patient Management
-- Doctor Management
-- Hospital Administration
-- Authentication
-- Role-Based Authorization
-- REST APIs
-- MySQL Database
-- Real-Time Notifications
-- Responsive Frontend
-- Dockerized Services
-
-### Technology
-
-`Next.js` `React` `Java` `Spring Boot` `MySQL` `Docker`
-
-<p>
-  <a href="https://github.com/adarshm858/Hospital-Management-System">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/adarshm858/Hospital-Management-System?style=for-the-badge&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/forks/adarshm858/Hospital-Management-System?style=for-the-badge&logo=github&label=Forks"/>
-</p>
-
----
-
-## 🏦 03 — Ace Bank Service
-
-### Secure Banking Backend
-
-A Java and Spring Boot banking backend focused on **secure API architecture, authentication, authorization and database-driven banking operations.**
-
-### Highlights
-
-- RESTful API Architecture
-- Spring Security
-- Authentication & Authorization
-- Role-Based Access Control
-- Secure Password Handling
-- Banking Operations
-- Database Integration
-- Transaction Management
-- API Validation
-
-### Technology
-
-`Java` `Spring Boot` `Spring Security` `MySQL` `REST API`
-
-<p>
-  <a href="https://github.com/adarshm858/Ace-Bank-Service">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/adarshm858/Ace-Bank-Service?style=for-the-badge&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/forks/adarshm858/Ace-Bank-Service?style=for-the-badge&logo=github&label=Forks"/>
-</p>
-
----
-
-## 🎓 04 — Scholar Forge
-
-### Academic Marketplace Platform
-
-A full-stack academic marketplace designed to connect students with academic resources and services.
-
-### Highlights
 
 - OAuth2 Authentication
 - JWT Authorization
 - User Management
-- Academic Marketplace
 - REST APIs
-- PostgreSQL Integration
-- Responsive Frontend
-
-### Technology
-
-`Next.js` `Spring Boot` `PostgreSQL` `OAuth2` `JWT`
+- PostgreSQL
+- Responsive UI
 
 ---
 
-## 🔐 05 — Authentication Framework
+## 5. 🔐 Authentication Framework
 
-### Secure Authentication & Authorization System
+Secure authentication and authorization framework built with Spring Boot.
 
-A reusable Spring Boot authentication framework designed around modern security practices.
+```text
+Spring Boot • Spring Security • JWT • BCrypt • REST API
+```
 
 ### Features
 
-- User Registration
-- Secure Login
-- BCrypt Password Hashing
+- Registration
+- Login
+- Password Hashing
 - JWT Authentication
-- Role-Based Authorization
-- Protected REST APIs
-- Spring Security Integration
-
-### Technology
-
-`Java` `Spring Boot` `Spring Security` `JWT` `BCrypt` `REST API`
+- RBAC
+- Protected APIs
+- Security Configuration
 
 ---
 
-## 🐾 06 — Petify
+## 6. 🐾 Petify
 
-### Pet Care Application
+Pet-care mobile application concept focused on improving pet-owner experiences.
 
-A mobile application concept focused on simplifying pet-care management and improving the pet-owner experience.
-
-### Focus
-
-`Figma` · `UI/UX` · `Mobile Design` · `Product Design`
+```text
+Figma • UI/UX • Product Design
+```
 
 ---
 
 # 🧠 Engineering Interests
 
-## ☕ Backend Engineering
-
 ```text
-Java
-Spring Boot
-Spring Security
-REST APIs
-JWT
-OAuth2
-Database Design
-API Architecture
-Validation
-Exception Handling
-Secure APIs
-Transaction Management
-```
-
-## ⚛️ Full-Stack Development
-
-```text
-Next.js
-React
-TypeScript
-Tailwind CSS
-API Integration
-Authentication
-Responsive Interfaces
-Modern UI/UX
-```
-
-## 🤖 AI Engineering
-
-```text
-LLM Applications
-AI Agents
-AI Automation
-Resume Intelligence
-AI Interview Systems
-Career Recommendation
-Intelligent Matching
-AI-powered Workflows
-```
-
-## 🔐 Cybersecurity
-
-```text
-Application Security
-Network Security
-OWASP
-OSINT
-Nmap
-Wireshark
-Burp Suite
-Vulnerability Assessment
-Penetration Testing
-Secure API Development
+Backend Engineering
+Full-Stack Development
+AI Engineering
+Cybersecurity
+Cloud Computing
+System Design
+API Development
+Security Automation
+DevOps
 ```
 
 ---
 
-# 💻 Coding Profiles
+# 🏆 Coding Profiles & Achievements
 
 <p align="center">
 
 <a href="https://leetcode.com/u/adarsm858/">
-<img src="https://img.shields.io/badge/LeetCode-adarsm858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-adarsm858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/adarshm858">
-<img src="https://img.shields.io/badge/HackerRank-adarshm858-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-adarshm858-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/adarshm858">
-<img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-adarshm858-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </p>
 
-## 🟠 LeetCode
+### 🟢 HackerRank
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/adarsm858?theme=dark&font=Karma" alt="LeetCode Stats"/>
+
+<a href="https://www.hackerrank.com/profile/adarshm858">
+<img src="https://img.shields.io/badge/🏆%20View%20My-HackerRank%20Achievements-2EC866?style=for-the-badge" />
+</a>
+
 </p>
 
-## 🧩 Competitive Programming
+**Areas:** Problem Solving · Java · SQL · Python · C++
 
-My coding practice focuses on:
+> ⭐ My HackerRank profile contains my current stars, badges and earned achievements.
 
-- Data Structures & Algorithms
-- Problem Solving
-- Competitive Programming
-- Algorithm Optimization
-- Java
-- C++
-- Python
-- SQL
-- Technical Interview Preparation
+### 🟠 LeetCode
 
-| Platform | Username | Focus |
-|---|---|---|
-| 🟠 LeetCode | `adarsm858` | DSA · Algorithms · Interview Preparation |
-| 🟢 HackerRank | `adarshm858` | Problem Solving · Java · Python · SQL |
-| 🟤 CodeChef | `adarshm858` | Competitive Programming · DSA · Contests |
+<p align="center">
 
-### 🔗 Coding Profiles
+<img src="https://leetcard.jacoblin.cool/adarsm858?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 
-- 🟠 **LeetCode:** https://leetcode.com/u/adarsm858/
-- 🟢 **HackerRank:** https://www.hackerrank.com/profile/adarshm858
-- 🟤 **CodeChef:** https://www.codechef.com/users/adarshm858
+</p>
 
-> **Solve. Learn. Optimize. Repeat.**
+[View LeetCode Profile](https://leetcode.com/u/adarsm858/)
+
+### 🟤 CodeChef
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/adarshm858">
+<img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshm858&theme=darkhub&no-frame=true&margin-w=8&row=2" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adarshm858&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" alt="GitHub Trophies" />
+
 </p>
 
 ---
@@ -427,65 +389,63 @@ My coding practice focuses on:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adarshm858&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm858&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adarshm858&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=adarshm858&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarshm858/adarshm858/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://raw.githubusercontent.com/adarshm858/adarshm858/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
 </p>
+
+> ⚠️ The Snake animation requires a GitHub Actions workflow in this profile repository.
 
 ---
 
-# 📈 Repository Highlights
+# 📌 Repository Highlights
 
 <p align="center">
 
 <a href="https://github.com/adarshm858/Hospital-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Hospital-Management-System&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Hospital-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/adarshm858/Ace-Bank-Service">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Ace-Bank-Service&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshm858&repo=Ace-Bank-Service&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 ---
 
-# 🏆 Certifications & Training
+# 🎓 Certifications & Training
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Red%20Hat-System%20Administration-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
-### Certifications & Training
-
-- 🏆 **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**
-- 🐧 **Red Hat System Administration Training**
-- 🐍 **Data Science using Python**
-- 🔐 **Cybersecurity & Ethical Hacking Training**
-- ☁️ **Cloud & Database Technologies**
-- 💻 **Kali Linux Training**
+| Certification / Training | Area |
+|---|---|
+| 🟠 Oracle Cloud Infrastructure 2025 — AI Foundations Associate | AI / Cloud |
+| 🔴 Red Hat System Administration Training | Linux / System Administration |
+| 🐍 Data Science using Python | Python / Data Science |
+| 🔐 Cybersecurity & Ethical Hacking Training | Cybersecurity |
+| ☁️ Cloud & Database Technologies | Cloud / Database |
+| 🐧 Kali Linux Training | Cybersecurity / Linux |
 
 ---
 
@@ -495,110 +455,104 @@ My coding practice focuses on:
 |---|---|
 | ☕ Java | Advanced Java & Spring Boot |
 | 🏗️ Architecture | System Design |
-| 🔐 Security | Application & Network Security |
-| 🤖 AI | LLM Applications & AI Agents |
-| ☁️ Cloud | Cloud Computing |
-| ⚙️ DevOps | CI/CD & Containerization |
-| 🧩 Backend | Scalable API Architecture |
-| 🚀 SaaS | Production-grade SaaS Architecture |
+| 🔐 Security | Application & API Security |
+| 🤖 AI | AI Engineering & LLM Applications |
+| ☁️ Cloud | Cloud Architecture |
+| ⚙️ DevOps | CI/CD, Docker & Deployment |
+| 🚀 Backend | Scalable APIs & SaaS Architecture |
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build and ship production-grade applications
-- ☕ Become highly proficient in Java & Spring Boot
-- 🧠 Strengthen Data Structures & Algorithms
-- 🏗️ Master System Design
-- 🔐 Build secure-by-design applications
-- 🤖 Develop practical AI/LLM applications
-- ☁️ Improve Cloud & DevOps expertise
-- 💻 Contribute to Open Source
-- 📈 Improve competitive programming skills
-- 🌍 Build products solving real-world problems
-
----
-
-# 🧑‍💻 Development Philosophy
-
-> ## **BUILD • SECURE • AUTOMATE • SCALE**
-
-Good software is more than software that simply works.
-
-I believe production-ready systems should be:
-
 ```text
-Reliable
-   +
-Secure
-   +
-Maintainable
-   +
-Scalable
-   +
-User-focused
+✓ Build production-grade applications
+✓ Strengthen Java & Spring Boot expertise
+✓ Build secure and scalable APIs
+✓ Improve DSA & System Design
+✓ Explore AI / LLM Engineering
+✓ Deepen Cybersecurity expertise
+✓ Contribute to Open Source
+✓ Build and launch useful products
 ```
 
-My goal is to build software that solves **real-world problems** while maintaining strong engineering principles, security practices and long-term maintainability.
+---
+
+# 💡 Development Philosophy
+
+```text
+BUILD
+   ↓
+SECURE
+   ↓
+AUTOMATE
+   ↓
+SCALE
+```
+
+> **Good software works.  
+> Great software is secure, scalable and maintainable.**
 
 ---
 
-# 📈 My Developer Journey
+# 🚀 My Developer Journey
 
 ```text
-              ┌─────────────────────┐
-              │   Problem / Idea    │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │   System Design     │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │    Development      │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │ Security & Testing  │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │     Deployment      │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │ Continuous Improve  │
-              └─────────────────────┘
+          ┌──────────────────┐
+          │   IT & Software  │
+          │    Engineering   │
+          └────────┬─────────┘
+                   ↓
+          ┌──────────────────┐
+          │ Backend & APIs   │
+          │ Java / Spring    │
+          └────────┬─────────┘
+                   ↓
+          ┌──────────────────┐
+          │ Full-Stack Dev   │
+          │ Next.js / React  │
+          └────────┬─────────┘
+                   ↓
+          ┌──────────────────┐
+          │ Cybersecurity    │
+          │ Secure Systems   │
+          └────────┬─────────┘
+                   ↓
+          ┌──────────────────┐
+          │ AI & LLM         │
+          │ Engineering      │
+          └────────┬─────────┘
+                   ↓
+          ┌──────────────────┐
+          │ Production       │
+          │ Systems & SaaS   │
+          └──────────────────┘
 ```
 
 ---
 
 # 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations around:
-
-**Software Engineering · Backend Development · Full-Stack Development · Cybersecurity · AI Engineering · Open Source**
-
 <p align="center">
 
 <a href="https://github.com/adarshm858">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/adarsm858/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/adarshm858">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/adarshm858">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </p>
@@ -607,14 +561,6 @@ I'm interested in opportunities and collaborations around:
 
 <p align="center">
 
-### `BUILD • SECURE • AUTOMATE • SCALE`
-
-<br>
-
-<sub>Thanks for visiting my GitHub profile.</sub>
-
-<br><br>
-
-⭐ <b>If you find my projects useful, consider giving them a star!</b>
+### ⚡ BUILD • SECURE • AUTOMATE • SCALE
 
 </p>
