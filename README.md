@@ -483,7 +483,7 @@ I'm open to opportunities and collaborations related to:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href=(https://www.codechef.com/users/adarshm858)">
+<a href="(https://www.codechef.com/users/adarshm858)">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
