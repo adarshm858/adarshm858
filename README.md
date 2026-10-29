@@ -475,19 +475,19 @@ I'm open to opportunities and collaborations related to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/adarshm858/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="(https://leetcode.com/u/adarsm858/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_CODECHEF_URL">
+<a href=(https://www.codechef.com/users/adarshm858)">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK_URL">
+<a href="(https://www.hackerrank.com/profile/adarshm858)">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
